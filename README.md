@@ -1,2 +1,2 @@
-# Cool-Gradient-Generetor
+# Cool-Gradient-Generator
 CSS gradient generator code 
