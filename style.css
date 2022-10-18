@@ -5,7 +5,9 @@ body {
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-    background: linear-gradient(to right, green, blue);
+    background-image: linear-gradient(to right, green, blue);
+    background-size: cover;
+    width: 100%;
 }
 
 h1 {
