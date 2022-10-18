@@ -1,15 +1,20 @@
-body { 
+html {
+    margin: auto 0;
+}
+
+body {
     font: 'Raleway', sans-serif;
     color: rgba(0, 0, 0, .5);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-    background: linear-gradient(to right, green, blue);
+    background-image: linear-gradient(to right, green, blue);
+    /* background-size: auto;  */
 }
 
 h1 {
-    font: 600 3.5em 'Raleway', sans-serif;
+    font: 600 2em 'Raleway', sans-serif;
     color: rgba(0, 0, 0, .5);  
     text-align: center;
     text-transform: uppercase;
